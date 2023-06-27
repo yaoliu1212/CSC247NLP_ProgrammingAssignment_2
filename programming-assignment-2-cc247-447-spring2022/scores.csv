@@ -1,0 +1,16 @@
+tripleid,word1,word2,word2vec-score,wu-palmer-score,brown-vector-score,your-novel-score
+0,dog,cat,0.761,1,0.758,NA
+0,dog,house,0.257,0.3,0.844,NA
+0,cat,house,0.268,0.3,0.623,NA
+1,bottle,house,0.198,0.364,0.755,NA
+1,bottle,run,-0.009,0.364,0.818,NA
+1,house,run,0.062,0.8,0.832,NA
+2,drum,health,0.022,0.267,0.554,NA
+2,drum,milk,0.051,0.75,0.613,NA
+2,health,milk,0.255,0.235,0.641,NA
+3,doc,queen,0.139,0.909,0.323,NA
+3,doc,friend,0.142,0.818,0.544,NA
+3,queen,friend,0.168,0.818,0.663,NA
+4,save,help,0.336,0.941,0.811,NA
+4,save,waste,0.267,0.833,0.737,NA
+4,help,waste,0.061,0.588,0.691,NA
